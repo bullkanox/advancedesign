@@ -8,12 +8,17 @@
 body {
     height: 100vh;
     background-color: black;
-    background-image: url('https://images.unsplash.com/photo-1544380904-c686aad2fc40?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    /* background-image: url('https://img.freepik.com/free-photo/3d-render-abstract-background-plexus-design-with-shallow-depth-field_1048-14031.jpg?w=1060&t=st=1705344711~exp=1705345311~hmac=093897d3a53f5dd02429cd305bf3f83abb54c366e9ead5bbaeb15491bec59134'); */
+    /* background-image: url('https://img.freepik.com/free-vector/abstract-background_79603-31.jpg?w=1380&t=st=1705344879~exp=1705345479~hmac=206303507923fd5be113e54bba7bde7241818128dfd428951b61e211ccf7299b'); */
+    /* background-image: url('https://img.freepik.com/free-photo/3d-render-abstract-background-with-glowing-particles_1048-14186.jpg?w=1060&t=st=1705345013~exp=1705345613~hmac=459496fe7cc9e6435133364c567c4c0d7c5fdf9ae2ffbcb1a9b64228d66039fd'); */
+    background-image: url('https://img.freepik.com/free-photo/3d-render-abstract-techno-background-with-flowing-rainbow-particles_1048-14705.jpg?w=1060&t=st=1705345100~exp=1705345700~hmac=9052d0b1c189953b353a4de2435af8af037e670099f6580c64b8714ab106a157');
+    /* background-image: url('https://img.freepik.com/free-photo/3d-render-modern-background-with-flowing-cyber-particles_1048-13851.jpg?w=1060&t=st=1705345204~exp=1705345804~hmac=9c493701a44d409ea6291b480d0dfa33006efa713ade2ee431a5a49be6e35f25'); */
+    /* background-image: url('https://img.freepik.com/free-photo/3d-render-abstract-technology-with-flowing-particles_1048-13794.jpg?w=1060&t=st=1705345298~exp=1705345898~hmac=704b8e0ee83f81cdab9c81f7b991074b573aa470a1e92d44ffbb4e5e5f683108'); */
     background-size: cover;
     background-position: center;
 
     /* background: rgba(255, 255, 255, 0.01); */
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(7px);
 }
 
 li {
